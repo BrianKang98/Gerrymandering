@@ -1,0 +1,2 @@
+File gerrymandering includes the LP
+File grid is an interactive visual demonstration for explaining gerrymandering
